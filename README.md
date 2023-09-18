@@ -168,6 +168,8 @@ Github extends the functionality of Markdown tables to provide more alignment an
 
 ![Photo of the pipe charcter on a keyboard ](assets/pipe.jpg)
 
+[Secret Window Hidden Garden](secret-window/hidden-garden.md)
+
 ## External References
 
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
