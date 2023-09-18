@@ -52,7 +52,11 @@ else
 end
 ```
 
-![desktop-wallpaper-cool-tech-background-best-technology](https://github.com/Dreadstar22/github-docs-example/assets/66575153/764368aa-70a8-4e7f-9b5b-e840c5f17969)
+- Make not of where the backtick key is located.
+- It should appear above the tab key,
+- but it may vary based on your keyboard layout.
+
+![Backtick on thekeyboard](assets/backtick.png)
 
 Good Cloud Engineers use codeblocks for both Code and Errors that appear in the console.
 
@@ -62,6 +66,71 @@ Traceback (most recent call last):
 Did you mean?  defined?
 ```
 > Here is an example of using a codeblock for an error that appers in bash.
+
+When you can always provide a codeblock instead of a screenshot.
+If you need to take a screenshot make sure its not a photo from your phone. 
+
+> There are certain cases where its okay to take photos with your phone. This is when you are showing something like a keyboard, which does not appear on a computer screen. If it is rendered on your computer screen it should be a screenshot.
+
+## Step 2 - how to take screenshots
+
+A screenshot is when you capture a part of your creen from your laptop, desktop or phone.
+
+This is not to be confused with taking a photo with your phone.
+
+**DON'T DO THIS**
+
+![Picture with phone](assets/phone.png)
+
+This is what a screenshot from your computer should look like.
+
+""DO THIS INSTEAD**
+
+![computer_screenshot](assets/screenshot.png)
+
+To take screenshots on both Mac and Windows, you can use built-in hotkeys or keyboard shortcuts. Here are the common hotkeys for taking screenshots on both platforms:
+
+**Mac:**
+
+1. **Capture the entire screen:**
+   - Press `Command (⌘) + Shift + 3`.
+
+2. **Capture a selected portion of the screen:**
+   - Press `Command (⌘) + Shift + 4`, and then click and drag to select the area you want to capture.
+
+3. **Capture a specific window:**
+   - Press `Command (⌘) + Shift + 4`, then press the `Spacebar`, and click on the window you want to capture.
+
+4. **Capture the Touch Bar (on MacBook Pro with Touch Bar):**
+   - Press `Command (⌘) + Shift + 6`.
+
+5. **Take a screenshot and save it to the clipboard (without saving as a file):**
+   - Add `Control` to any of the above shortcuts. For example, `Command (⌘) + Control + Shift + 3` captures the screen to the clipboard.
+
+**Windows:**
+
+1. **Capture the entire screen:**
+   - Press `PrtScn` (Print Screen) key. On some keyboards, you may need to press `Fn` or `Function` along with `PrtScn`.
+
+2. **Capture the active window:**
+   - Press `Alt + PrtScn`. This captures only the currently active window and copies it to the clipboard.
+
+3. **Capture a selected portion of the screen (Windows 10 and later):**
+   - Press `Win + Shift + S` to open the Snipping Tool, or `Win + Shift + S` to open Snip & Sketch. Then, select the area you want to capture.
+
+4. **Capture the entire screen and save as a file (Windows 10 and later):**
+   - Press `Win + Shift + S`, select the area you want to capture, and it will be copied to the clipboard. You can then paste it into an image editor or document.
+
+5. **Capture a specific window (Windows 10 and later):**
+   - Press `Alt + PrtScn`, and it will capture only the currently active window and copy it to the clipboard.
+
+6. **Capture the entire screen and save it as a file (Windows 10 and later):**
+   - Press `Win + Shift + S`, select the area you want to capture, and it will be copied to the clipboard. You can then paste it into an image editor or document.
+
+7. **Use the Snipping Tool (Windows 7 and later):**
+   - Search for "Snipping Tool" in the Start menu. This tool allows you to capture specific portions of the screen and save them as image files.
+
+Please note that the exact hotkeys and options may vary slightly depending on your specific version of macOS or Windows.
 
 ## Step 3 - Use Github Flavored Task Lists
 
@@ -91,7 +160,13 @@ You can use the following markdown format to create tables:
 | Cloud With Lightning | `cloud_with_lightning` | 🌩️ |
 | Space Invader | `:space_invader:` | :space_invader: |
 ```
-Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options.[<sup>[2]</sup>](#external-references)
+Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options.[^2]
+
+- Make not of where the pipe key is located.
+- It should appear above the enter key,
+- but it may vary based on your keyboard layout.
+
+![Photo of the pipe charcter on a keyboard ](assets/pipe.jpg)
 
 ## External References
 
@@ -99,4 +174,4 @@ Github extends the functionality of Markdown tables to provide more alignment an
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 - [GFM - Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) <sup>[1]</sup>
 - [GFM - Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet)
-- [GFM - Tables (with extensions)](https://github.github.com/gfm/#tables-extension-)<sup>[2]</sup>
+- [GFM - Tables (with extensions)](https://github.github.com/gfm/#tables-extension-)[^2]
