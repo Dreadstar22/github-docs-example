@@ -134,7 +134,7 @@ Please note that the exact hotkeys and options may vary slightly depending on yo
 
 ## Step 3 - Use Github Flavored Task Lists
 
-Github extends Markdown to have a list where you can check off items.[<sup>[1]</sup>](#external-references)
+Github extends Markdown to have a list where you can check off items.[^1]
 
 - [x] Finish Step 1
 - [ ] Finsih Step 2
@@ -172,6 +172,6 @@ Github extends the functionality of Markdown tables to provide more alignment an
 
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-- [GFM - Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) <sup>[1]</sup>
+- [GFM - Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) [^1]
 - [GFM - Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet)
 - [GFM - Tables (with extensions)](https://github.github.com/gfm/#tables-extension-)[^2]
